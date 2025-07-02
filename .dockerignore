@@ -1,7 +1,0 @@
-Dockerfile
-.dockerignore
-venv/
-__pycache__/
-*.pyc
-*.pyo
-escola.db
